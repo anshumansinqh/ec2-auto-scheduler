@@ -1,4 +1,4 @@
-EC2 Auto Start/Stop Scheduler
+#EC2 Auto Start/Stop Scheduler
 
 Automatically starts and stops AWS EC2 instances on weekdays using AWS Lambda and Amazon EventBridge.
 
