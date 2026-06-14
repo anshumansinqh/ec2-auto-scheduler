@@ -1,6 +1,8 @@
 EC2 Auto Start/Stop Scheduler
 
 Automatically starts and stops AWS EC2 instances on weekdays using AWS Lambda and Amazon EventBridge.
+<img width="1919" height="863" alt="Step 1" src="https://github.com/user-attachments/assets/af1c0109-c06d-4e93-bc42-e9b2d0ff0fba" />
+
 
 -> Architecture
 EventBridge (Cron Schedule) → Lambda Function → EC2 Instance
